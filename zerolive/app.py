@@ -220,7 +220,9 @@ class Collector:
                     continue
                 discovered_index += 1
                 for page_url, title in event_links(html, index_url, self.domains):
-                    pages.setdefault(page_url, (title, infer_category(route)))
+                    category = infer_category(route)
+                    if page_url not in pages or pages[page_url][1] == "Live Sports":
+                        pages[page_url] = (title, category)
         if not pages:
             LOG.warning("No event pages discovered from %s index pages", discovered_index)
         candidates: list[Entry] = []
