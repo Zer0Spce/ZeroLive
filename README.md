@@ -1,6 +1,6 @@
 # ZeroLive
 
-Automated M3U playlist generator for **public, directly playable HLS feeds** linked by event pages, with hourly GitHub Actions refreshes. The default discovery sources are `roxiestreams.info`, `roxiestreams.biz`, and `roxiestreams.su`.
+Automated M3U playlist generator for **public, directly playable HLS feeds** linked by event pages, with 10 daily GitHub Actions refreshes at fixed Philippine Standard Time slots. The default discovery sources are `roxiestreams.info`, `roxiestreams.biz`, and `roxiestreams.su`.
 
 > This project does not provide or guarantee access to third-party broadcasts. Only process streams you have permission to access and republish. It does not bypass DRM, passwords, paywalls, signed-token requirements, or geoblocks. An event webpage is not an IPTV-compatible stream.
 
@@ -17,7 +17,7 @@ Visit **Actions → Refresh ZeroLive playlist → Run workflow**. After a succes
 
 `https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/playlist.m3u`
 
-GitHub's scheduled job runs at minute 7 of each UTC hour, subject to GitHub Actions scheduling delays. To allow automatic commits, configure **Settings → Actions → General → Workflow permissions → Read and write permissions** if needed.
+GitHub's scheduled refreshes run daily at **12:00 AM, 4:00 AM, 6:00 AM, 7:00 AM, 8:00 AM, 10:00 AM, 12:00 PM, 3:00 PM, 6:00 PM, and 9:00 PM Philippine Time (UTC+8)**. GitHub Actions cron uses UTC; start times may be delayed by GitHub's scheduler. To allow automatic commits, configure **Settings → Actions → General → Workflow permissions → Read and write permissions** if needed.
 
 **There is no functional playlist until an actual run verifies direct HLS URLs.** Event schedules and numbered website player buttons are not themselves direct stream feeds.
 
