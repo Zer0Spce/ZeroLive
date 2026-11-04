@@ -1,3 +1,4 @@
+import json
 import tempfile
 from pathlib import Path
 import unittest
@@ -60,6 +61,41 @@ class ZeroLiveTests(unittest.TestCase):
             image_url = create_thumbnail("Chicago Cubs vs. New York Yankees", "MLB", "cubs-yankees", Path(dirname))
             self.assertTrue(Path(dirname, "cubsyankees.png").is_file())
             self.assertTrue(image_url.endswith("/cubsyankees.png"))
+
+
+    def test_category_paths_and_event_link_names(self):
+        html = (
+            '<div><a href="/soccer-streams-7">Grêmio vs Atlético Mineiro</a>'
+            '<a href="/nba-streams-1">Philadelphia 76ers vs Charlotte Hornets</a>'
+            '<a href="/motorsports-streams-3">Formula 1: Brazilian Grand Prix</a></div>'
+        )
+        pairs = event_links(html, "https://roxiestreams.info/soccer", {"roxiestreams.info"})
+        self.assertIn(("https://roxiestreams.info/soccer-streams-7",
+                       "Grêmio vs. Atlético Mineiro"), pairs)
+        self.assertIn(("https://roxiestreams.info/nba-streams-1",
+                       "Philadelphia 76ers vs. Charlotte Hornets"), pairs)
+        self.assertIn(("https://roxiestreams.info/motorsports-streams-3",
+                       "Formula 1: Brazilian Grand Prix"), pairs)
+
+    def test_exact_discovery_routes(self):
+        config = json.loads(Path("config/sources.json").read_text(encoding="utf-8"))
+        self.assertEqual(config["routes"], [
+            "/soccer", "/mlb", "/nba", "/nfl", "/nhl", "/fighting", "/motorsports"
+        ])
+
+    def test_category_scrape_fixture(self):
+        base = "https://roxiestreams.info"
+        fixtures = {
+            base + "/nba": '<table><tr><td><a href="/nba-streams-1">Celtics vs Pistons</a></td></tr></table>',
+            base + "/nba-streams-1": '<video><source src="https://cdn.example.org/nba/live.m3u8"></video>',
+        }
+        collector = Collector([base], ["/nba"], validate=False)
+        collector.fetch = lambda url: fixtures.get(url, "")
+        entries, count = collector.collect({})
+        self.assertEqual(count, 1)
+        self.assertEqual(len(entries), 1)
+        self.assertEqual(entries[0].title, "Celtics vs. Pistons")
+        self.assertEqual(entries[0].category, "NBA")
 
 
 if __name__ == "__main__":
