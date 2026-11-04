@@ -5,17 +5,13 @@
     "https://roxiestreams.su"
   ],
   "routes": [
-    "/",
     "/soccer",
-    "/fighting",
+    "/mlb",
     "/nba",
     "/nfl",
-    "/basketball",
     "/nhl",
-    "/mlb",
-    "/f1",
-    "/tennis",
-    "/ncaa"
+    "/fighting",
+    "/motorsports"
   ],
   "timeout_seconds": 12,
   "max_event_pages": 150
