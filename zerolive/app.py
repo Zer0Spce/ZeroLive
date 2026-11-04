@@ -18,6 +18,7 @@ from urllib.parse import parse_qsl, urlencode, urljoin, urlparse, urlunparse
 
 import requests
 from bs4 import BeautifulSoup
+from .thumbnails import create_thumbnail
 
 LOG = logging.getLogger("zerolive")
 STREAM_RE = re.compile(r"(?:https?:)?//[^\s\"'<>\\]+?\.m3u8(?:\?[^\s\"'<>\\]*)?", re.I)
@@ -286,6 +287,21 @@ def main() -> None:
     if not entries:
         # Fail safely; never overwrite a previously working playlist with an empty one.
         raise SystemExit("No verified live HLS feeds discovered. Existing playlist preserved.")
+    thumb_dir = Path("assets/thumbnails")
+    enriched = []
+    used = set()
+    for item in entries:
+        if item.logo:
+            enriched.append(item)
+        else:
+            generated = create_thumbnail(item.title, item.category, event_key(item.title), thumb_dir)
+            used.add(generated.rsplit("/", 1)[-1])
+            enriched.append(Entry(item.title, item.url, item.category, generated, item.source_page))
+    if thumb_dir.exists():
+        for stale in thumb_dir.glob("*.png"):
+            if stale.name not in used:
+                stale.unlink()
+    entries = enriched
     out = Path(args.output)
     out.parent.mkdir(parents=True, exist_ok=True)
     out.write_text(render_m3u(entries), encoding="utf-8")
