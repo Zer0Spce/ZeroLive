@@ -1,14 +1,9 @@
 name: Refresh ZeroLive playlist
 on:
-  push:
-    branches: [main]
-    paths:
-      - 'zerolive/**'
-      - 'config/**'
-      - 'requirements.txt'
-      - '.github/workflows/refresh.yml'
+  # GitHub cron uses UTC. Philippine Standard Time (Asia/Manila) = UTC+8.
+  # 00:00, 04:00, 06:00, 07:00, 08:00, 10:00, 12:00, 15:00, 18:00, 21:00 PHT.
   schedule:
-    - cron: '7 * * * *'
+    - cron: '0 0,2,4,7,10,13,16,20,22,23 * * *'
   workflow_dispatch:
 permissions:
   contents: write
