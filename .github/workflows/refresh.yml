@@ -1,5 +1,12 @@
 name: Refresh ZeroLive playlist
 on:
+  push:
+    branches: [main]
+    paths:
+      - 'zerolive/**'
+      - 'config/**'
+      - 'requirements.txt'
+      - '.github/workflows/refresh.yml'
   schedule:
     - cron: '7 * * * *'
   workflow_dispatch:
