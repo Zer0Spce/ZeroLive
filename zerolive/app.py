@@ -23,10 +23,10 @@ from .thumbnails import create_thumbnail
 LOG = logging.getLogger("zerolive")
 STREAM_RE = re.compile(r"(?:https?:)?//[^\s\"'<>\\]+?\.m3u8(?:\?[^\s\"'<>\\]*)?", re.I)
 STREAM_MARKER = re.compile(r"(?:\.m3u8)(?:\?|$)", re.I)
-EVENT_PATH = re.compile(r"(?:ppv-streams|/watch/|/live/|/event/|/stream/)", re.I)
+EVENT_PATH = re.compile(r"(?:/(?:soccer|mlb|nba|nfl|nhl|fighting|motorsports|ppv)-streams?-\d+/?$|/watch/|/live/|/event/|/stream/)", re.I)
 REMOVE_BRAND = re.compile(r"\b(?:roxie[ -]?streams?)\b", re.I)
 REMOVE_STREAM = re.compile(r"\s*(?:[-|:()]\s*)?(?:stream|mirror|server)\s*#?\d+\s*$", re.I)
-SANE_LINK = re.compile(r"^[a-zA-Z][a-zA-Z0-9 +.&'()/-]{3,110}$")
+SANE_LINK = re.compile(r"^[\w][\w\s+.&'()/:,!?–—-]{2,140}$", re.UNICODE)
 UA = "ZeroLive/1.0 (+https://github.com/Zer0Spce/ZeroLive; public-metadata-collector)"
 
 
@@ -124,7 +124,8 @@ def best_logo(html: str, base: str) -> str:
 
 def infer_category(path: str, default: str = "Live Sports") -> str:
     path = path.lower()
-    for slug, name in (("soccer", "Football"), ("fighting", "Combat Sports"),
+    for slug, name in (("soccer", "Soccer"), ("fighting", "Fighting"),
+                       ("motorsports", "Motorsports"),
                        ("basketball", "Basketball"), ("nba", "NBA"),
                        ("nfl", "NFL"), ("ncaa", "College Sports"),
                        ("f1", "Formula 1"), ("nhl", "NHL"),
