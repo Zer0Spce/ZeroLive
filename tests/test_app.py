@@ -1,6 +1,9 @@
+import tempfile
+from pathlib import Path
 import unittest
 
-from zerolive.app import Entry, best_logo, clean_name, discover_hls, event_links, render_m3u
+from zerolive.app import Collector, Entry, best_logo, clean_name, discover_hls, event_links, render_m3u
+from zerolive.thumbnails import create_thumbnail
 
 
 class ZeroLiveTests(unittest.TestCase):
@@ -36,6 +39,27 @@ class ZeroLiveTests(unittest.TestCase):
         self.assertIn("NBA Finals | Stream 2", output)
         self.assertEqual(output.count("#EXTINF"), 2)
         self.assertNotIn("roxiestreams", output.lower())
+
+
+    def test_collector_fixture(self):
+        base = "https://roxiestreams.info"
+        page = base + "/ppv-streams-1"
+        fixtures = {
+            base + "/": '<table><tr><td><a href="/ppv-streams-1">NBA Finals</a></td></tr></table>',
+            page: '<video src="https://cdn.example.org/nba.m3u8"></video>',
+        }
+        collector = Collector([base], ["/"], validate=False)
+        collector.fetch = lambda url: fixtures.get(url, "")
+        entries, count = collector.collect({})
+        self.assertEqual(count, 1)
+        self.assertEqual(entries[0].title, "NBA Finals")
+        self.assertEqual(entries[0].url, "https://cdn.example.org/nba.m3u8")
+
+    def test_generated_thumbnail(self):
+        with tempfile.TemporaryDirectory() as dirname:
+            image_url = create_thumbnail("Chicago Cubs vs. New York Yankees", "MLB", "cubs-yankees", Path(dirname))
+            self.assertTrue(Path(dirname, "cubsyankees.png").is_file())
+            self.assertTrue(image_url.endswith("/cubsyankees.png"))
 
 
 if __name__ == "__main__":
