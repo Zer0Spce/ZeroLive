@@ -9,7 +9,7 @@ Automated M3U playlist generator for **public, directly playable HLS feeds** lin
 - Extracts **direct .m3u8 URLs only**, checks for a valid `#EXTM3U` HLS response, and skips broken URLs.
 - Cleans titles (including removal of `Roxiestreams`), groups them by sport, and labels multiple feeds `Stream 1`, `Stream 2`.
 - Deduplicates identical feeds found on multiple mirror sites.
-- Adds per-event thumbnails from page metadata and manual `tvg-logo` overrides.
+- Adds per-event thumbnails from page metadata and manual `tvg-logo` overrides; generates original 640x360 PNG posters when an event has no supplied art.
 - Publishes `playlist.m3u` and `data/manifest.json` using GitHub Actions every hour, keeping the previous playlist on failed discovery.
 
 ## Run
