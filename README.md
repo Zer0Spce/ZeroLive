@@ -5,12 +5,13 @@ Automated M3U playlist generator for **public, directly playable HLS feeds** lin
 > This project does not provide or guarantee access to third-party broadcasts. Only process streams you have permission to access and republish. It does not bypass DRM, passwords, paywalls, signed-token requirements, or geoblocks. An event webpage is not an IPTV-compatible stream.
 
 ## What it does
-- Discovers event pages across three mirror domains.
+- Discovers event pages from the **seven exact sports sections** (`/soccer`, `/mlb`, `/nba`, `/nfl`, `/nhl`, `/fighting`, `/motorsports`) on the primary domain and two backup domains.
+- Recognizes sport-specific event URLs such as `/nba-streams-1`, `/soccer-streams-7` and `/motorsports-streams-3`.
 - Extracts **direct .m3u8 URLs only**, checks for a valid `#EXTM3U` HLS response, and skips broken URLs.
 - Cleans titles (including removal of `Roxiestreams`), groups them by sport, and labels multiple feeds `Stream 1`, `Stream 2`.
 - Deduplicates identical feeds found on multiple mirror sites.
 - Adds per-event thumbnails from page metadata and manual `tvg-logo` overrides; generates original 640x360 PNG posters when an event has no supplied art.
-- Publishes `playlist.m3u` and `data/manifest.json` using GitHub Actions every hour, keeping the previous playlist on failed discovery.
+- Publishes `playlist.m3u` and `data/manifest.json` using GitHub Actions at the 10 configured Philippine Time slots, keeping the previous playlist on failed discovery.
 
 ## Run
 Visit **Actions → Refresh ZeroLive playlist → Run workflow**. After a successful refresh, the playlist URL is:
