@@ -1,2 +1,5 @@
 #EXTM3U
-# No verified HLS feeds have been discovered yet. The scheduled workflow replaces this file after a successful scan.
+#EXTINF:-1 tvg-name="NASCAR Truck Series - Race" tvg-id="nascartruckseriesrace" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/nascartruckseriesrace.png" group-title="Motorsports",NASCAR Truck Series - Race
+https://tedesco.formaturamaxi.com.br/nas.m3u8
+#EXTINF:-1 tvg-name="WoO World Finals" tvg-id="wooworldfinals" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/wooworldfinals.png" group-title="Motorsports",WoO World Finals
+https://admin2.formaturamaxi.com.br/flo.m3u8

@@ -1,0 +1,21 @@
+{
+  "updated_at_utc": "2026-11-06T23:55:11.567816+00:00",
+  "stream_count": 2,
+  "events": 2,
+  "entries": [
+    {
+      "title": "NASCAR Truck Series - Race",
+      "url": "https://tedesco.formaturamaxi.com.br/nas.m3u8",
+      "category": "Motorsports",
+      "logo": "https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/nascartruckseriesrace.png",
+      "source_page": "https://roxiestreams.info/nascar"
+    },
+    {
+      "title": "WoO World Finals",
+      "url": "https://admin2.formaturamaxi.com.br/flo.m3u8",
+      "category": "Motorsports",
+      "logo": "https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/wooworldfinals.png",
+      "source_page": "https://roxiestreams.info/floracing-1"
+    }
+  ]
+}
