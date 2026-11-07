@@ -1,7 +1,7 @@
 {
-  "updated_at_utc": "2026-11-06T23:55:11.567816+00:00",
-  "stream_count": 2,
-  "events": 2,
+  "updated_at_utc": "2026-11-07T04:10:43.029151+00:00",
+  "stream_count": 3,
+  "events": 3,
   "entries": [
     {
       "title": "NASCAR Truck Series - Race",
@@ -16,6 +16,13 @@
       "category": "Motorsports",
       "logo": "https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/wooworldfinals.png",
       "source_page": "https://roxiestreams.info/floracing-1"
+    },
+    {
+      "title": "New Mexico vs. Nevada",
+      "url": "https://tedesco.formaturamaxi.com.br/ncaa4.m3u8",
+      "category": "NFL",
+      "logo": "https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/newmexicovsnevada.png",
+      "source_page": "https://roxiestreams.info/ncaa-streams-4"
     }
   ]
 }
