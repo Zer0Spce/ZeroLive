@@ -1,7 +1,27 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="NASCAR Truck Series - Race" tvg-id="nascartruckseriesrace" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/nascartruckseriesrace.png" group-title="Motorsports",NASCAR Truck Series - Race
+#EXTINF:-1 tvg-name="NASCAR O'Reilly Auto Parts - Race" tvg-id="nascaroreillyautopartsrace" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/nascaroreillyautopartsrace.png" group-title="Motorsports",NASCAR O'Reilly Auto Parts - Race
 https://tedesco.formaturamaxi.com.br/nas.m3u8
 #EXTINF:-1 tvg-name="WoO World Finals" tvg-id="wooworldfinals" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/wooworldfinals.png" group-title="Motorsports",WoO World Finals
 https://admin2.formaturamaxi.com.br/flo.m3u8
-#EXTINF:-1 tvg-name="New Mexico vs. Nevada" tvg-id="newmexicovsnevada" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/newmexicovsnevada.png" group-title="NFL",New Mexico vs. Nevada
+#EXTINF:-1 tvg-name="Colorado vs. Arizona State" tvg-id="coloradovsarizonastate" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/coloradovsarizonastate.png" group-title="NFL",Colorado vs. Arizona State
 https://tedesco.formaturamaxi.com.br/ncaa4.m3u8
+#EXTINF:-1 tvg-name="Louisville vs. Georgia Tech" tvg-id="louisvillevsgeorgiatech" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/louisvillevsgeorgiatech.png" group-title="NFL",Louisville vs. Georgia Tech
+https://admin2.formaturamaxi.com.br/ncaa5.m3u8
+#EXTINF:-1 tvg-name="Texas State vs. Oregon State" tvg-id="texasstatevsoregonstate" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/texasstatevsoregonstate.png" group-title="NFL",Texas State vs. Oregon State
+https://admin2.formaturamaxi.com.br/ncaa8.m3u8
+#EXTINF:-1 tvg-name="Wyoming vs. UNLV" tvg-id="wyomingvsunlv" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/wyomingvsunlv.png" group-title="NFL",Wyoming vs. UNLV
+https://admin2.formaturamaxi.com.br/ncaa6.m3u8
+#EXTINF:-1 tvg-name="Chicago Blackhawks vs. Carolina Hurricanes" tvg-id="chicagoblackhawksvscarolinahurricanes" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/chicagoblackhawksvscarolinahurricanes.png" group-title="NHL",Chicago Blackhawks vs. Carolina Hurricanes
+https://tedesco.formaturamaxi.com.br/nhl7.m3u8
+#EXTINF:-1 tvg-name="Detroit Red Wings vs. Colorado Avalanche" tvg-id="detroitredwingsvscoloradoavalanche" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/detroitredwingsvscoloradoavalanche.png" group-title="NHL",Detroit Red Wings vs. Colorado Avalanche
+https://admin2.formaturamaxi.com.br/nhl10.m3u8
+#EXTINF:-1 tvg-name="New Jersey Devils vs. New York Islanders" tvg-id="newjerseydevilsvsnewyorkislanders" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/newjerseydevilsvsnewyorkislanders.png" group-title="NHL",New Jersey Devils vs. New York Islanders
+https://admin2.formaturamaxi.com.br/nhl6.m3u8
+#EXTINF:-1 tvg-name="Pittsburgh Penguins vs. Los Angeles Kings" tvg-id="pittsburghpenguinsvslosangeleskings" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/pittsburghpenguinsvslosangeleskings.png" group-title="NHL",Pittsburgh Penguins vs. Los Angeles Kings
+https://admin2.formaturamaxi.com.br/nhl11.m3u8
+#EXTINF:-1 tvg-name="San Jose Sharks vs. Dallas Stars" tvg-id="sanjosesharksvsdallasstars" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/sanjosesharksvsdallasstars.png" group-title="NHL",San Jose Sharks vs. Dallas Stars
+https://admin2.formaturamaxi.com.br/nhl8.m3u8
+#EXTINF:-1 tvg-name="Tampa Bay Lightning vs. Minnesota Wild" tvg-id="tampabaylightningvsminnesotawild" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/tampabaylightningvsminnesotawild.png" group-title="NHL",Tampa Bay Lightning vs. Minnesota Wild
+https://tedesco.formaturamaxi.com.br/nhl9.m3u8
+#EXTINF:-1 tvg-name="Utah Mammoth vs. Ottawa Senators" tvg-id="utahmammothvsottawasenators" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/utahmammothvsottawasenators.png" group-title="NHL",Utah Mammoth vs. Ottawa Senators
+https://admin2.formaturamaxi.com.br/nhl5.m3u8
