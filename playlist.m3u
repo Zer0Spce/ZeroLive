@@ -1,3 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Angers SCO vs. Nice" tvg-id="angersscovsnice" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/angersscovsnice.png" group-title="Soccer",Angers SCO vs. Nice
-https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlistR1080p.m3u8
+#EXTINF:-1 tvg-name="NASCAR Cup Series - Race" tvg-id="nascarcupseriesrace" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/nascarcupseriesrace.png" group-title="Motorsports",NASCAR Cup Series - Race
+https://admin2.formaturamaxi.com.br/nas.m3u8
+#EXTINF:-1 tvg-name="WEC - 6 Hours of Monza" tvg-id="wec6hoursofmonza" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/wec6hoursofmonza.png" group-title="Motorsports",WEC - 6 Hours of Monza
+https://admin2.formaturamaxi.com.br/tnt4.m3u8
