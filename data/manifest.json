@@ -1,7 +1,7 @@
 {
-  "updated_at_utc": "2026-11-11T08:45:18.754210+00:00",
-  "stream_count": 5,
-  "events": 5,
+  "updated_at_utc": "2026-11-11T17:38:52.525927+00:00",
+  "stream_count": 4,
+  "events": 4,
   "entries": [
     {
       "title": "NASCAR Cup Series - Race",
@@ -18,25 +18,18 @@
       "source_page": "https://roxiestreams.info/wec"
     },
     {
-      "title": "Detroit Red Wings vs. St. Louis Blues",
-      "url": "https://admin2.formaturamaxi.com.br/nhl6.m3u8",
-      "category": "NHL",
-      "logo": "https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/detroitredwingsvsstlouisblues.png",
-      "source_page": "https://roxiestreams.info/nhl-streams-6"
-    },
-    {
-      "title": "Florida Panthers vs. Columbus Blue Jackets",
+      "title": "Nashville Predators vs. Anaheim Ducks",
       "url": "https://tedesco.formaturamaxi.com.br/nhl5.m3u8",
       "category": "NHL",
-      "logo": "https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/floridapanthersvscolumbusbluejackets.png",
+      "logo": "https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/nashvillepredatorsvsanaheimducks.png",
       "source_page": "https://roxiestreams.info/nhl-streams-5"
     },
     {
-      "title": "Nashville Predators vs. Los Angeles Kings",
-      "url": "https://admin2.formaturamaxi.com.br/nhl7.m3u8",
+      "title": "Pittsburgh Penguins vs. San Jose Sharks",
+      "url": "https://admin2.formaturamaxi.com.br/nhl6.m3u8",
       "category": "NHL",
-      "logo": "https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/nashvillepredatorsvslosangeleskings.png",
-      "source_page": "https://roxiestreams.info/nhl-streams-7"
+      "logo": "https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/pittsburghpenguinsvssanjosesharks.png",
+      "source_page": "https://roxiestreams.info/nhl-streams-6"
     }
   ]
 }
