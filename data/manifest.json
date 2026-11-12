@@ -1,7 +1,7 @@
 {
-  "updated_at_utc": "2026-11-12T01:45:57.825882+00:00",
-  "stream_count": 4,
-  "events": 4,
+  "updated_at_utc": "2026-11-12T09:06:32.977132+00:00",
+  "stream_count": 9,
+  "events": 9,
   "entries": [
     {
       "title": "NASCAR Cup Series - Race",
@@ -18,18 +18,53 @@
       "source_page": "https://roxiestreams.info/wec"
     },
     {
-      "title": "Nashville Predators vs. Anaheim Ducks",
-      "url": "https://tedesco.formaturamaxi.com.br/nhl5.m3u8",
+      "title": "Buffalo Sabres vs. Chicago Blackhawks",
+      "url": "https://tedesco.formaturamaxi.com.br/nhl8.m3u8",
       "category": "NHL",
-      "logo": "https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/nashvillepredatorsvsanaheimducks.png",
+      "logo": "https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/buffalosabresvschicagoblackhawks.png",
+      "source_page": "https://roxiestreams.info/nhl-streams-8"
+    },
+    {
+      "title": "Detroit Red Wings vs. Florida Panthers",
+      "url": "https://admin2.formaturamaxi.com.br/nhl7.m3u8",
+      "category": "NHL",
+      "logo": "https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/detroitredwingsvsfloridapanthers.png",
+      "source_page": "https://roxiestreams.info/nhl-streams-7"
+    },
+    {
+      "title": "New York Islanders vs. Los Angeles Kings",
+      "url": "https://admin2.formaturamaxi.com.br/nhl11.m3u8",
+      "category": "NHL",
+      "logo": "https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/newyorkislandersvslosangeleskings.png",
+      "source_page": "https://roxiestreams.info/nhl-streams-11"
+    },
+    {
+      "title": "St. Louis Blues vs. Utah Mammoth",
+      "url": "https://admin2.formaturamaxi.com.br/nhl10.m3u8",
+      "category": "NHL",
+      "logo": "https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/stlouisbluesvsutahmammoth.png",
+      "source_page": "https://roxiestreams.info/nhl-streams-10"
+    },
+    {
+      "title": "Tampa Bay Lightning vs. Columbus Blue Jackets",
+      "url": "https://admin2.formaturamaxi.com.br/nhl6.m3u8",
+      "category": "NHL",
+      "logo": "https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/tampabaylightningvscolumbusbluejackets.png",
+      "source_page": "https://roxiestreams.info/nhl-streams-6"
+    },
+    {
+      "title": "Washington Capitals vs. New Jersey Devils",
+      "url": "https://admin2.formaturamaxi.com.br/nhl5.m3u8",
+      "category": "NHL",
+      "logo": "https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/washingtoncapitalsvsnewjerseydevils.png",
       "source_page": "https://roxiestreams.info/nhl-streams-5"
     },
     {
-      "title": "Pittsburgh Penguins vs. San Jose Sharks",
-      "url": "https://admin2.formaturamaxi.com.br/nhl6.m3u8",
+      "title": "Winnipeg Jets vs. Dallas Stars",
+      "url": "https://admin2.formaturamaxi.com.br/nhl9.m3u8",
       "category": "NHL",
-      "logo": "https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/pittsburghpenguinsvssanjosesharks.png",
-      "source_page": "https://roxiestreams.info/nhl-streams-6"
+      "logo": "https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/winnipegjetsvsdallasstars.png",
+      "source_page": "https://roxiestreams.info/nhl-streams-9"
     }
   ]
 }
