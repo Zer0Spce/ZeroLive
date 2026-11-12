@@ -1,7 +1,7 @@
 {
-  "updated_at_utc": "2026-11-12T09:06:32.977132+00:00",
-  "stream_count": 9,
-  "events": 9,
+  "updated_at_utc": "2026-11-12T17:51:31.523775+00:00",
+  "stream_count": 10,
+  "events": 10,
   "entries": [
     {
       "title": "NASCAR Cup Series - Race",
@@ -65,6 +65,13 @@
       "category": "NHL",
       "logo": "https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/winnipegjetsvsdallasstars.png",
       "source_page": "https://roxiestreams.info/nhl-streams-9"
+    },
+    {
+      "title": "Congo DR vs. Sierra Leone",
+      "url": "https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlistR1080p.m3u8",
+      "category": "Soccer",
+      "logo": "https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/congodrvssierraleone.png",
+      "source_page": "https://roxiestreams.info/soccer-streams-2"
     }
   ]
 }

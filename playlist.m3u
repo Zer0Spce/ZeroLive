@@ -17,3 +17,5 @@ https://admin2.formaturamaxi.com.br/nhl6.m3u8
 https://admin2.formaturamaxi.com.br/nhl5.m3u8
 #EXTINF:-1 tvg-name="Winnipeg Jets vs. Dallas Stars" tvg-id="winnipegjetsvsdallasstars" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/winnipegjetsvsdallasstars.png" group-title="NHL",Winnipeg Jets vs. Dallas Stars
 https://admin2.formaturamaxi.com.br/nhl9.m3u8
+#EXTINF:-1 tvg-name="Congo DR vs. Sierra Leone" tvg-id="congodrvssierraleone" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/congodrvssierraleone.png" group-title="Soccer",Congo DR vs. Sierra Leone
+https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlistR1080p.m3u8
