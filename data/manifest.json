@@ -1,7 +1,7 @@
 {
-  "updated_at_utc": "2026-11-13T08:59:39.383253+00:00",
-  "stream_count": 9,
-  "events": 9,
+  "updated_at_utc": "2026-11-13T17:28:19.839579+00:00",
+  "stream_count": 3,
+  "events": 3,
   "entries": [
     {
       "title": "NASCAR Cup Series - Race",
@@ -18,53 +18,11 @@
       "source_page": "https://roxiestreams.info/wec"
     },
     {
-      "title": "Buffalo Sabres vs. Chicago Blackhawks",
-      "url": "https://admin2.formaturamaxi.com.br/nhl8.m3u8",
-      "category": "NHL",
-      "logo": "https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/buffalosabresvschicagoblackhawks.png",
-      "source_page": "https://roxiestreams.info/nhl-streams-8"
-    },
-    {
-      "title": "Detroit Red Wings vs. Florida Panthers",
-      "url": "https://admin2.formaturamaxi.com.br/nhl7.m3u8",
-      "category": "NHL",
-      "logo": "https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/detroitredwingsvsfloridapanthers.png",
-      "source_page": "https://roxiestreams.info/nhl-streams-7"
-    },
-    {
-      "title": "St. Louis Blues vs. Utah Mammoth",
-      "url": "https://admin2.formaturamaxi.com.br/nhl10.m3u8",
-      "category": "NHL",
-      "logo": "https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/stlouisbluesvsutahmammoth.png",
-      "source_page": "https://roxiestreams.info/nhl-streams-10"
-    },
-    {
-      "title": "Tampa Bay Lightning vs. Columbus Blue Jackets",
-      "url": "https://admin2.formaturamaxi.com.br/nhl6.m3u8",
-      "category": "NHL",
-      "logo": "https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/tampabaylightningvscolumbusbluejackets.png",
-      "source_page": "https://roxiestreams.info/nhl-streams-6"
-    },
-    {
-      "title": "Washington Capitals vs. New Jersey Devils",
-      "url": "https://tedesco.formaturamaxi.com.br/nhl5.m3u8",
-      "category": "NHL",
-      "logo": "https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/washingtoncapitalsvsnewjerseydevils.png",
-      "source_page": "https://roxiestreams.info/nhl-streams-5"
-    },
-    {
-      "title": "Winnipeg Jets vs. Dallas Stars",
-      "url": "https://admin2.formaturamaxi.com.br/nhl9.m3u8",
-      "category": "NHL",
-      "logo": "https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/winnipegjetsvsdallasstars.png",
-      "source_page": "https://roxiestreams.info/nhl-streams-9"
-    },
-    {
-      "title": "Congo DR vs. Sierra Leone",
+      "title": "Colombia vs. Chile",
       "url": "https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlistR1080p.m3u8",
       "category": "Soccer",
-      "logo": "https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/congodrvssierraleone.png",
-      "source_page": "https://roxiestreams.info/soccer-streams-2"
+      "logo": "https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/colombiavschile.png",
+      "source_page": "https://roxiestreams.info/soccer-streams-15"
     }
   ]
 }
