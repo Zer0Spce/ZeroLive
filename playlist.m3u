@@ -4,11 +4,9 @@ https://admin2.formaturamaxi.com.br/nas.m3u8
 #EXTINF:-1 tvg-name="WEC - 6 Hours of Monza" tvg-id="wec6hoursofmonza" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/wec6hoursofmonza.png" group-title="Motorsports",WEC - 6 Hours of Monza
 https://admin2.formaturamaxi.com.br/tnt4.m3u8
 #EXTINF:-1 tvg-name="Buffalo Sabres vs. Chicago Blackhawks" tvg-id="buffalosabresvschicagoblackhawks" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/buffalosabresvschicagoblackhawks.png" group-title="NHL",Buffalo Sabres vs. Chicago Blackhawks
-https://tedesco.formaturamaxi.com.br/nhl8.m3u8
+https://admin2.formaturamaxi.com.br/nhl8.m3u8
 #EXTINF:-1 tvg-name="Detroit Red Wings vs. Florida Panthers" tvg-id="detroitredwingsvsfloridapanthers" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/detroitredwingsvsfloridapanthers.png" group-title="NHL",Detroit Red Wings vs. Florida Panthers
 https://admin2.formaturamaxi.com.br/nhl7.m3u8
-#EXTINF:-1 tvg-name="New York Islanders vs. Los Angeles Kings" tvg-id="newyorkislandersvslosangeleskings" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/newyorkislandersvslosangeleskings.png" group-title="NHL",New York Islanders vs. Los Angeles Kings
-https://admin2.formaturamaxi.com.br/nhl11.m3u8
 #EXTINF:-1 tvg-name="St. Louis Blues vs. Utah Mammoth" tvg-id="stlouisbluesvsutahmammoth" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/stlouisbluesvsutahmammoth.png" group-title="NHL",St. Louis Blues vs. Utah Mammoth
 https://admin2.formaturamaxi.com.br/nhl10.m3u8
 #EXTINF:-1 tvg-name="Tampa Bay Lightning vs. Columbus Blue Jackets" tvg-id="tampabaylightningvscolumbusbluejackets" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/tampabaylightningvscolumbusbluejackets.png" group-title="NHL",Tampa Bay Lightning vs. Columbus Blue Jackets

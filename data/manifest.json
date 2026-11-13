@@ -1,7 +1,7 @@
 {
-  "updated_at_utc": "2026-11-13T00:51:19.827325+00:00",
-  "stream_count": 10,
-  "events": 10,
+  "updated_at_utc": "2026-11-13T08:59:39.383253+00:00",
+  "stream_count": 9,
+  "events": 9,
   "entries": [
     {
       "title": "NASCAR Cup Series - Race",
@@ -19,7 +19,7 @@
     },
     {
       "title": "Buffalo Sabres vs. Chicago Blackhawks",
-      "url": "https://tedesco.formaturamaxi.com.br/nhl8.m3u8",
+      "url": "https://admin2.formaturamaxi.com.br/nhl8.m3u8",
       "category": "NHL",
       "logo": "https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/buffalosabresvschicagoblackhawks.png",
       "source_page": "https://roxiestreams.info/nhl-streams-8"
@@ -30,13 +30,6 @@
       "category": "NHL",
       "logo": "https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/detroitredwingsvsfloridapanthers.png",
       "source_page": "https://roxiestreams.info/nhl-streams-7"
-    },
-    {
-      "title": "New York Islanders vs. Los Angeles Kings",
-      "url": "https://admin2.formaturamaxi.com.br/nhl11.m3u8",
-      "category": "NHL",
-      "logo": "https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/newyorkislandersvslosangeleskings.png",
-      "source_page": "https://roxiestreams.info/nhl-streams-11"
     },
     {
       "title": "St. Louis Blues vs. Utah Mammoth",
