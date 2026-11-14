@@ -1,7 +1,7 @@
 {
-  "updated_at_utc": "2026-11-13T17:28:19.839579+00:00",
-  "stream_count": 3,
-  "events": 3,
+  "updated_at_utc": "2026-11-14T00:37:15.416551+00:00",
+  "stream_count": 2,
+  "events": 2,
   "entries": [
     {
       "title": "NASCAR Cup Series - Race",
@@ -16,13 +16,6 @@
       "category": "Motorsports",
       "logo": "https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/wec6hoursofmonza.png",
       "source_page": "https://roxiestreams.info/wec"
-    },
-    {
-      "title": "Colombia vs. Chile",
-      "url": "https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlistR1080p.m3u8",
-      "category": "Soccer",
-      "logo": "https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/colombiavschile.png",
-      "source_page": "https://roxiestreams.info/soccer-streams-15"
     }
   ]
 }
