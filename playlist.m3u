@@ -11,12 +11,12 @@ https://admin2.formaturamaxi.com.br/ncaa8.m3u8
 https://admin2.formaturamaxi.com.br/ncaa5.m3u8
 #EXTINF:-1 tvg-name="North Dakota State vs. Hawai'i" tvg-id="northdakotastatevshawaii" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/northdakotastatevshawaii.png" group-title="NFL",North Dakota State vs. Hawai'i
 https://admin2.formaturamaxi.com.br/ncaa9.m3u8
+#EXTINF:-1 tvg-name="South Carolina vs. Arkansas" tvg-id="southcarolinavsarkansas" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/southcarolinavsarkansas.png" group-title="NFL",South Carolina vs. Arkansas
+https://admin2.formaturamaxi.com.br/ncaa11.m3u8
 #EXTINF:-1 tvg-name="Stanford vs. Virginia Tech" tvg-id="stanfordvsvirginiatech" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/stanfordvsvirginiatech.png" group-title="NFL",Stanford vs. Virginia Tech
 https://tedesco.formaturamaxi.com.br/ncaa6.m3u8
 #EXTINF:-1 tvg-name="Utah State vs. San Diego State" tvg-id="utahstatevssandiegostate" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/utahstatevssandiegostate.png" group-title="NFL",Utah State vs. San Diego State
 https://admin2.formaturamaxi.com.br/ncaa15.m3u8
-#EXTINF:-1 tvg-name="Wyoming vs. UTEP" tvg-id="wyomingvsutep" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/wyomingvsutep.png" group-title="NFL",Wyoming vs. UTEP
-https://admin2.formaturamaxi.com.br/ncaa7.m3u8
 #EXTINF:-1 tvg-name="Buffalo Sabres vs. Dallas Stars" tvg-id="buffalosabresvsdallasstars" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/buffalosabresvsdallasstars.png" group-title="NHL",Buffalo Sabres vs. Dallas Stars
 https://admin2.formaturamaxi.com.br/nhl11.m3u8
 #EXTINF:-1 tvg-name="Colorado Avalanche vs. Montreal Canadiens" tvg-id="coloradoavalanchevsmontrealcanadiens" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/coloradoavalanchevsmontrealcanadiens.png" group-title="NHL",Colorado Avalanche vs. Montreal Canadiens
