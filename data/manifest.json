@@ -1,140 +1,14 @@
 {
-  "updated_at_utc": "2026-11-14T23:35:20.632186+00:00",
-  "stream_count": 19,
-  "events": 19,
+  "updated_at_utc": "2026-11-16T08:54:41.144664+00:00",
+  "stream_count": 1,
+  "events": 1,
   "entries": [
     {
-      "title": "NASCAR Cup Series - Race",
-      "url": "https://admin2.formaturamaxi.com.br/nas.m3u8",
-      "category": "Motorsports",
-      "logo": "https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/nascarcupseriesrace.png",
-      "source_page": "https://roxiestreams.info/nascar"
-    },
-    {
-      "title": "WEC - 6 Hours of Monza",
-      "url": "https://admin2.formaturamaxi.com.br/tnt4.m3u8",
-      "category": "Motorsports",
-      "logo": "https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/wec6hoursofmonza.png",
-      "source_page": "https://roxiestreams.info/wec"
-    },
-    {
-      "title": "Cincinnati vs. Iowa State",
-      "url": "https://admin2.formaturamaxi.com.br/ncaa4.m3u8",
-      "category": "NFL",
-      "logo": "https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/cincinnativsiowastate.png",
-      "source_page": "https://roxiestreams.info/ncaa-streams-4"
-    },
-    {
-      "title": "Colorado State vs. Washington State",
-      "url": "https://tedesco.formaturamaxi.com.br/ncaa7.m3u8",
-      "category": "NFL",
-      "logo": "https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/coloradostatevswashingtonstate.png",
-      "source_page": "https://roxiestreams.info/ncaa-streams-7"
-    },
-    {
-      "title": "Louisville vs. North Carolina",
-      "url": "https://admin2.formaturamaxi.com.br/ncaa14.m3u8",
-      "category": "NFL",
-      "logo": "https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/louisvillevsnorthcarolina.png",
-      "source_page": "https://roxiestreams.info/ncaa-streams-14"
-    },
-    {
-      "title": "North Dakota State vs. Hawai'i",
-      "url": "https://admin2.formaturamaxi.com.br/ncaa8.m3u8",
-      "category": "NFL",
-      "logo": "https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/northdakotastatevshawaii.png",
-      "source_page": "https://roxiestreams.info/ncaa-streams-8"
-    },
-    {
-      "title": "North Texas vs. UTSA",
-      "url": "https://admin2.formaturamaxi.com.br/ncaa11.m3u8",
-      "category": "NFL",
-      "logo": "https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/northtexasvsutsa.png",
-      "source_page": "https://roxiestreams.info/ncaa-streams-11"
-    },
-    {
-      "title": "Purdue vs. Iowa",
-      "url": "https://admin2.formaturamaxi.com.br/ncaa12.m3u8",
-      "category": "NFL",
-      "logo": "https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/purduevsiowa.png",
-      "source_page": "https://roxiestreams.info/ncaa-streams-12"
-    },
-    {
-      "title": "Stanford vs. Virginia Tech",
-      "url": "https://admin2.formaturamaxi.com.br/ncaa5.m3u8",
-      "category": "NFL",
-      "logo": "https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/stanfordvsvirginiatech.png",
-      "source_page": "https://roxiestreams.info/ncaa-streams-5"
-    },
-    {
-      "title": "USC vs. Indiana",
-      "url": "https://admin2.formaturamaxi.com.br/ncaa13.m3u8",
-      "category": "NFL",
-      "logo": "https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/uscvsindiana.png",
-      "source_page": "https://roxiestreams.info/ncaa-streams-13"
-    },
-    {
-      "title": "Utah State vs. San Diego State",
-      "url": "https://admin2.formaturamaxi.com.br/ncaa15.m3u8",
-      "category": "NFL",
-      "logo": "https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/utahstatevssandiegostate.png",
-      "source_page": "https://roxiestreams.info/ncaa-streams-15"
-    },
-    {
-      "title": "Washington vs. Michigan State",
-      "url": "https://admin2.formaturamaxi.com.br/ncaa9.m3u8",
-      "category": "NFL",
-      "logo": "https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/washingtonvsmichiganstate.png",
-      "source_page": "https://roxiestreams.info/ncaa-streams-9"
-    },
-    {
-      "title": "Wyoming vs. UTEP",
-      "url": "https://admin.formaturamaxi.com.br/ncaa6.m3u8",
-      "category": "NFL",
-      "logo": "https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/wyomingvsutep.png",
-      "source_page": "https://roxiestreams.info/ncaa-streams-6"
-    },
-    {
-      "title": "Buffalo Sabres vs. Dallas Stars",
-      "url": "https://admin2.formaturamaxi.com.br/nhl11.m3u8",
-      "category": "NHL",
-      "logo": "https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/buffalosabresvsdallasstars.png",
-      "source_page": "https://roxiestreams.info/nhl-streams-11"
-    },
-    {
-      "title": "Detroit Red Wings vs. Tampa Bay Lightning",
-      "url": "https://admin2.formaturamaxi.com.br/nhl6.m3u8",
-      "category": "NHL",
-      "logo": "https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/detroitredwingsvstampabaylightning.png",
-      "source_page": "https://roxiestreams.info/nhl-streams-6"
-    },
-    {
-      "title": "Florida Panthers vs. St. Louis Blues",
-      "url": "https://admin2.formaturamaxi.com.br/nhl10.m3u8",
-      "category": "NHL",
-      "logo": "https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/floridapanthersvsstlouisblues.png",
-      "source_page": "https://roxiestreams.info/nhl-streams-10"
-    },
-    {
-      "title": "New Jersey Devils vs. Washington Capitals",
-      "url": "https://tedesco.formaturamaxi.com.br/nhl8.m3u8",
-      "category": "NHL",
-      "logo": "https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/newjerseydevilsvswashingtoncapitals.png",
-      "source_page": "https://roxiestreams.info/nhl-streams-8"
-    },
-    {
-      "title": "Ottawa Senators vs. Pittsburgh Penguins",
-      "url": "https://admin2.formaturamaxi.com.br/nhl7.m3u8",
-      "category": "NHL",
-      "logo": "https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/ottawasenatorsvspittsburghpenguins.png",
-      "source_page": "https://roxiestreams.info/nhl-streams-7"
-    },
-    {
-      "title": "Philadelphia Flyers vs. Columbus Blue Jackets",
-      "url": "https://admin2.formaturamaxi.com.br/nhl9.m3u8",
-      "category": "NHL",
-      "logo": "https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/philadelphiaflyersvscolumbusbluejackets.png",
-      "source_page": "https://roxiestreams.info/nhl-streams-9"
+      "title": "Central African Republic vs. Benin",
+      "url": "https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlistR1080p.m3u8",
+      "category": "Soccer",
+      "logo": "https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/centralafricanrepublicvsbenin.png",
+      "source_page": "https://roxiestreams.info/soccer-streams-1"
     }
   ]
 }
