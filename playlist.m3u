@@ -1,3 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Central African Republic vs. Benin" tvg-id="centralafricanrepublicvsbenin" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/centralafricanrepublicvsbenin.png" group-title="Soccer",Central African Republic vs. Benin
+#EXTINF:-1 tvg-name="Ottawa Senators vs. Winnipeg Jets" tvg-id="ottawasenatorsvswinnipegjets" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/ottawasenatorsvswinnipegjets.png" group-title="NHL",Ottawa Senators vs. Winnipeg Jets
+https://tedesco.formaturamaxi.com.br/nhl5.m3u8
+#EXTINF:-1 tvg-name="Mauritania vs. Burkina Faso" tvg-id="mauritaniavsburkinafaso" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/mauritaniavsburkinafaso.png" group-title="Soccer",Mauritania vs. Burkina Faso
+https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlistR1080p.m3u8
+#EXTINF:-1 tvg-name="Singapore vs. Brazil" tvg-id="singaporevsbrazil" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/singaporevsbrazil.png" group-title="Soccer",Singapore vs. Brazil
 https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlistR1080p.m3u8

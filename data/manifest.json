@@ -1,13 +1,27 @@
 {
-  "updated_at_utc": "2026-11-17T02:48:25.937469+00:00",
-  "stream_count": 1,
-  "events": 1,
+  "updated_at_utc": "2026-11-17T12:42:27.696607+00:00",
+  "stream_count": 3,
+  "events": 3,
   "entries": [
     {
-      "title": "Central African Republic vs. Benin",
+      "title": "Ottawa Senators vs. Winnipeg Jets",
+      "url": "https://tedesco.formaturamaxi.com.br/nhl5.m3u8",
+      "category": "NHL",
+      "logo": "https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/ottawasenatorsvswinnipegjets.png",
+      "source_page": "https://roxiestreams.info/nhl-streams-5"
+    },
+    {
+      "title": "Mauritania vs. Burkina Faso",
       "url": "https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlistR1080p.m3u8",
       "category": "Soccer",
-      "logo": "https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/centralafricanrepublicvsbenin.png",
+      "logo": "https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/mauritaniavsburkinafaso.png",
+      "source_page": "https://roxiestreams.info/soccer-streams-3"
+    },
+    {
+      "title": "Singapore vs. Brazil",
+      "url": "https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlistR1080p.m3u8",
+      "category": "Soccer",
+      "logo": "https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/singaporevsbrazil.png",
       "source_page": "https://roxiestreams.info/soccer-streams-1"
     }
   ]
