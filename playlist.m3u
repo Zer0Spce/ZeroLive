@@ -1,17 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Anaheim Ducks vs. St. Louis Blues" tvg-id="anaheimducksvsstlouisblues" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/anaheimducksvsstlouisblues.png" group-title="NHL",Anaheim Ducks vs. St. Louis Blues
-https://admin.formaturamaxi.com.br/nhl8.m3u8
-#EXTINF:-1 tvg-name="Calgary Flames vs. San Jose Sharks" tvg-id="calgaryflamesvssanjosesharks" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/calgaryflamesvssanjosesharks.png" group-title="NHL",Calgary Flames vs. San Jose Sharks
-https://admin2.formaturamaxi.com.br/nhl11.m3u8
-#EXTINF:-1 tvg-name="Dallas Stars vs. Vegas Golden Knights" tvg-id="dallasstarsvsvegasgoldenknights" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/dallasstarsvsvegasgoldenknights.png" group-title="NHL",Dallas Stars vs. Vegas Golden Knights
-https://admin2.formaturamaxi.com.br/nhl7.m3u8
-#EXTINF:-1 tvg-name="Nashville Predators vs. Minnesota Wild" tvg-id="nashvillepredatorsvsminnesotawild" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/nashvillepredatorsvsminnesotawild.png" group-title="NHL",Nashville Predators vs. Minnesota Wild
-https://admin.formaturamaxi.com.br/nhl9.m3u8
-#EXTINF:-1 tvg-name="Ottawa Senators vs. Winnipeg Jets" tvg-id="ottawasenatorsvswinnipegjets" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/ottawasenatorsvswinnipegjets.png" group-title="NHL",Ottawa Senators vs. Winnipeg Jets
-https://admin2.formaturamaxi.com.br/nhl5.m3u8
-#EXTINF:-1 tvg-name="Washington Capitals vs. Tampa Bay Lightning" tvg-id="washingtoncapitalsvstampabaylightning" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/washingtoncapitalsvstampabaylightning.png" group-title="NHL",Washington Capitals vs. Tampa Bay Lightning
-https://admin2.formaturamaxi.com.br/nhl6.m3u8
-#EXTINF:-1 tvg-name="Mauritania vs. Burkina Faso" tvg-id="mauritaniavsburkinafaso" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/mauritaniavsburkinafaso.png" group-title="Soccer",Mauritania vs. Burkina Faso
+#EXTINF:-1 tvg-name="Coritiba vs. Santos" tvg-id="coritibavssantos" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/coritibavssantos.png" group-title="Soccer",Coritiba vs. Santos
 https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlistR1080p.m3u8
-#EXTINF:-1 tvg-name="Singapore vs. Brazil" tvg-id="singaporevsbrazil" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/singaporevsbrazil.png" group-title="Soccer",Singapore vs. Brazil
+#EXTINF:-1 tvg-name="Flamengo vs. Athletico-PR" tvg-id="flamengovsathleticopr" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/flamengovsathleticopr.png" group-title="Soccer",Flamengo vs. Athletico-PR
 https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlistR1080p.m3u8
