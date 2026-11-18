@@ -1,14 +1,49 @@
 {
-  "updated_at_utc": "2026-11-17T21:28:58.419075+00:00",
-  "stream_count": 3,
-  "events": 3,
+  "updated_at_utc": "2026-11-18T03:17:03.567292+00:00",
+  "stream_count": 8,
+  "events": 8,
   "entries": [
     {
+      "title": "Anaheim Ducks vs. St. Louis Blues",
+      "url": "https://admin.formaturamaxi.com.br/nhl8.m3u8",
+      "category": "NHL",
+      "logo": "https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/anaheimducksvsstlouisblues.png",
+      "source_page": "https://roxiestreams.info/nhl-streams-8"
+    },
+    {
+      "title": "Calgary Flames vs. San Jose Sharks",
+      "url": "https://admin2.formaturamaxi.com.br/nhl11.m3u8",
+      "category": "NHL",
+      "logo": "https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/calgaryflamesvssanjosesharks.png",
+      "source_page": "https://roxiestreams.info/nhl-streams-11"
+    },
+    {
+      "title": "Dallas Stars vs. Vegas Golden Knights",
+      "url": "https://admin2.formaturamaxi.com.br/nhl7.m3u8",
+      "category": "NHL",
+      "logo": "https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/dallasstarsvsvegasgoldenknights.png",
+      "source_page": "https://roxiestreams.info/nhl-streams-7"
+    },
+    {
+      "title": "Nashville Predators vs. Minnesota Wild",
+      "url": "https://admin.formaturamaxi.com.br/nhl9.m3u8",
+      "category": "NHL",
+      "logo": "https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/nashvillepredatorsvsminnesotawild.png",
+      "source_page": "https://roxiestreams.info/nhl-streams-9"
+    },
+    {
       "title": "Ottawa Senators vs. Winnipeg Jets",
-      "url": "https://tedesco.formaturamaxi.com.br/nhl5.m3u8",
+      "url": "https://admin2.formaturamaxi.com.br/nhl5.m3u8",
       "category": "NHL",
       "logo": "https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/ottawasenatorsvswinnipegjets.png",
       "source_page": "https://roxiestreams.info/nhl-streams-5"
+    },
+    {
+      "title": "Washington Capitals vs. Tampa Bay Lightning",
+      "url": "https://admin2.formaturamaxi.com.br/nhl6.m3u8",
+      "category": "NHL",
+      "logo": "https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/washingtoncapitalsvstampabaylightning.png",
+      "source_page": "https://roxiestreams.info/nhl-streams-6"
     },
     {
       "title": "Mauritania vs. Burkina Faso",
