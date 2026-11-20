@@ -1,21 +1,70 @@
 {
-  "updated_at_utc": "2026-11-18T21:03:34.955074+00:00",
-  "stream_count": 2,
-  "events": 2,
+  "updated_at_utc": "2026-11-20T02:47:59.664538+00:00",
+  "stream_count": 9,
+  "events": 8,
   "entries": [
     {
-      "title": "Coritiba vs. Santos",
-      "url": "https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlistR1080p.m3u8",
-      "category": "Soccer",
-      "logo": "https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/coritibavssantos.png",
-      "source_page": "https://roxiestreams.info/soccer-streams-1"
+      "title": "Anaheim Ducks vs. Colorado Avalanche",
+      "url": "https://admin.formaturamaxi.com.br/nhl10.m3u8",
+      "category": "NHL",
+      "logo": "https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/anaheimducksvscoloradoavalanche.png",
+      "source_page": "https://roxiestreams.info/nhl-streams-10"
     },
     {
-      "title": "Flamengo vs. Athletico-PR",
-      "url": "https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlistR1080p.m3u8",
-      "category": "Soccer",
-      "logo": "https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/flamengovsathleticopr.png",
-      "source_page": "https://roxiestreams.info/soccer-streams-3"
+      "title": "Columbus Blue Jackets vs. Chicago Blackhawks",
+      "url": "https://admin.formaturamaxi.com.br/nhl8.m3u8",
+      "category": "NHL",
+      "logo": "https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/columbusbluejacketsvschicagoblackhawks.png",
+      "source_page": "https://roxiestreams.info/nhl-streams-8"
+    },
+    {
+      "title": "Edmonton Oilers vs. Tampa Bay Lightning",
+      "url": "https://admin2.formaturamaxi.com.br/nhl7.m3u8",
+      "category": "NHL",
+      "logo": "https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/edmontonoilersvstampabaylightning.png",
+      "source_page": "https://roxiestreams.info/nhl-streams-7"
+    },
+    {
+      "title": "Minnesota Wild vs. Calgary Flames",
+      "url": "https://admin2.formaturamaxi.com.br/nhl9.m3u8",
+      "category": "NHL",
+      "logo": "https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/minnesotawildvscalgaryflames.png",
+      "source_page": "https://roxiestreams.info/nhl-streams-9"
+    },
+    {
+      "title": "Montreal Canadiens vs. Carolina Hurricanes",
+      "url": "https://admin2.formaturamaxi.com.br/nhl5.m3u8",
+      "category": "NHL",
+      "logo": "https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/montrealcanadiensvscarolinahurricanes.png",
+      "source_page": "https://roxiestreams.info/nhl-streams-5"
+    },
+    {
+      "title": "Montreal Canadiens vs. Carolina Hurricanes",
+      "url": "https://admin2.formaturamaxi.com.br/tsn2.m3u8",
+      "category": "NHL",
+      "logo": "https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/montrealcanadiensvscarolinahurricanes.png",
+      "source_page": "https://roxiestreams.info/nhl-streams-5"
+    },
+    {
+      "title": "New York Islanders vs. Winnipeg Jets",
+      "url": "https://tedesco.formaturamaxi.com.br/nhl6.m3u8",
+      "category": "NHL",
+      "logo": "https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/newyorkislandersvswinnipegjets.png",
+      "source_page": "https://roxiestreams.info/nhl-streams-6"
+    },
+    {
+      "title": "St. Louis Blues vs. Pittsburgh Penguins",
+      "url": "https://tedesco.formaturamaxi.com.br/nhl3.m3u8",
+      "category": "NHL",
+      "logo": "https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/stlouisbluesvspittsburghpenguins.png",
+      "source_page": "https://roxiestreams.info/nhl-streams-3"
+    },
+    {
+      "title": "Vancouver Canucks vs. Seattle Kraken",
+      "url": "https://admin.formaturamaxi.com.br/nhl11.m3u8",
+      "category": "NHL",
+      "logo": "https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/vancouvercanucksvsseattlekraken.png",
+      "source_page": "https://roxiestreams.info/nhl-streams-11"
     }
   ]
 }

@@ -1,5 +1,19 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Coritiba vs. Santos" tvg-id="coritibavssantos" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/coritibavssantos.png" group-title="Soccer",Coritiba vs. Santos
-https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlistR1080p.m3u8
-#EXTINF:-1 tvg-name="Flamengo vs. Athletico-PR" tvg-id="flamengovsathleticopr" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/flamengovsathleticopr.png" group-title="Soccer",Flamengo vs. Athletico-PR
-https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlistR1080p.m3u8
+#EXTINF:-1 tvg-name="Anaheim Ducks vs. Colorado Avalanche" tvg-id="anaheimducksvscoloradoavalanche" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/anaheimducksvscoloradoavalanche.png" group-title="NHL",Anaheim Ducks vs. Colorado Avalanche
+https://admin.formaturamaxi.com.br/nhl10.m3u8
+#EXTINF:-1 tvg-name="Columbus Blue Jackets vs. Chicago Blackhawks" tvg-id="columbusbluejacketsvschicagoblackhawks" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/columbusbluejacketsvschicagoblackhawks.png" group-title="NHL",Columbus Blue Jackets vs. Chicago Blackhawks
+https://admin.formaturamaxi.com.br/nhl8.m3u8
+#EXTINF:-1 tvg-name="Edmonton Oilers vs. Tampa Bay Lightning" tvg-id="edmontonoilersvstampabaylightning" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/edmontonoilersvstampabaylightning.png" group-title="NHL",Edmonton Oilers vs. Tampa Bay Lightning
+https://admin2.formaturamaxi.com.br/nhl7.m3u8
+#EXTINF:-1 tvg-name="Minnesota Wild vs. Calgary Flames" tvg-id="minnesotawildvscalgaryflames" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/minnesotawildvscalgaryflames.png" group-title="NHL",Minnesota Wild vs. Calgary Flames
+https://admin2.formaturamaxi.com.br/nhl9.m3u8
+#EXTINF:-1 tvg-name="Montreal Canadiens vs. Carolina Hurricanes" tvg-id="montrealcanadiensvscarolinahurricanes" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/montrealcanadiensvscarolinahurricanes.png" group-title="NHL",Montreal Canadiens vs. Carolina Hurricanes | Stream 1
+https://admin2.formaturamaxi.com.br/nhl5.m3u8
+#EXTINF:-1 tvg-name="Montreal Canadiens vs. Carolina Hurricanes" tvg-id="montrealcanadiensvscarolinahurricanes" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/montrealcanadiensvscarolinahurricanes.png" group-title="NHL",Montreal Canadiens vs. Carolina Hurricanes | Stream 2
+https://admin2.formaturamaxi.com.br/tsn2.m3u8
+#EXTINF:-1 tvg-name="New York Islanders vs. Winnipeg Jets" tvg-id="newyorkislandersvswinnipegjets" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/newyorkislandersvswinnipegjets.png" group-title="NHL",New York Islanders vs. Winnipeg Jets
+https://tedesco.formaturamaxi.com.br/nhl6.m3u8
+#EXTINF:-1 tvg-name="St. Louis Blues vs. Pittsburgh Penguins" tvg-id="stlouisbluesvspittsburghpenguins" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/stlouisbluesvspittsburghpenguins.png" group-title="NHL",St. Louis Blues vs. Pittsburgh Penguins
+https://tedesco.formaturamaxi.com.br/nhl3.m3u8
+#EXTINF:-1 tvg-name="Vancouver Canucks vs. Seattle Kraken" tvg-id="vancouvercanucksvsseattlekraken" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/vancouvercanucksvsseattlekraken.png" group-title="NHL",Vancouver Canucks vs. Seattle Kraken
+https://admin.formaturamaxi.com.br/nhl11.m3u8
