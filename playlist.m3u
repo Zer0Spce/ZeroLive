@@ -1,25 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Oregon vs. Michigan State" tvg-id="oregonvsmichiganstate" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/oregonvsmichiganstate.png" group-title="NFL",Oregon vs. Michigan State
-https://tedesco.formaturamaxi.com.br/ncaa4.m3u8
-#EXTINF:-1 tvg-name="UTEP vs. Air Force" tvg-id="utepvsairforce" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/utepvsairforce.png" group-title="NFL",UTEP vs. Air Force
-https://admin2.formaturamaxi.com.br/ncaa5.m3u8
-#EXTINF:-1 tvg-name="Buffalo Sabres vs. Florida Panthers" tvg-id="buffalosabresvsfloridapanthers" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/buffalosabresvsfloridapanthers.png" group-title="NHL",Buffalo Sabres vs. Florida Panthers
-https://tedesco.formaturamaxi.com.br/nhl3.m3u8
-#EXTINF:-1 tvg-name="Columbus Blue Jackets vs. Toronto Maple Leafs" tvg-id="columbusbluejacketsvstorontomapleleafs" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/columbusbluejacketsvstorontomapleleafs.png" group-title="NHL",Columbus Blue Jackets vs. Toronto Maple Leafs
-https://tedesco.formaturamaxi.com.br/nhl6.m3u8
-#EXTINF:-1 tvg-name="Los Angeles Kings vs. Ottawa Senators" tvg-id="losangeleskingsvsottawasenators" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/losangeleskingsvsottawasenators.png" group-title="NHL",Los Angeles Kings vs. Ottawa Senators
-https://admin.formaturamaxi.com.br/nhl8.m3u8
-#EXTINF:-1 tvg-name="New Jersey Devils vs. St. Louis Blues" tvg-id="newjerseydevilsvsstlouisblues" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/newjerseydevilsvsstlouisblues.png" group-title="NHL",New Jersey Devils vs. St. Louis Blues
-https://admin.formaturamaxi.com.br/nhl10.m3u8
-#EXTINF:-1 tvg-name="New York Islanders vs. Detroit Red Wings" tvg-id="newyorkislandersvsdetroitredwings" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/newyorkislandersvsdetroitredwings.png" group-title="NHL",New York Islanders vs. Detroit Red Wings
-https://admin2.formaturamaxi.com.br/nhl9.m3u8
-#EXTINF:-1 tvg-name="Philadelphia Flyers vs. Montreal Canadiens" tvg-id="philadelphiaflyersvsmontrealcanadiens" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/philadelphiaflyersvsmontrealcanadiens.png" group-title="NHL",Philadelphia Flyers vs. Montreal Canadiens
-https://admin2.formaturamaxi.com.br/nhl7.m3u8
-#EXTINF:-1 tvg-name="Vegas Golden Knights vs. Winnipeg Jets" tvg-id="vegasgoldenknightsvswinnipegjets" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/vegasgoldenknightsvswinnipegjets.png" group-title="NHL",Vegas Golden Knights vs. Winnipeg Jets
-https://admin.formaturamaxi.com.br/nhl11.m3u8
-#EXTINF:-1 tvg-name="Washington Capitals vs. Boston Bruins" tvg-id="washingtoncapitalsvsbostonbruins" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/washingtoncapitalsvsbostonbruins.png" group-title="NHL",Washington Capitals vs. Boston Bruins | Stream 1
-https://admin2.formaturamaxi.com.br/nhl5.m3u8
-#EXTINF:-1 tvg-name="Washington Capitals vs. Boston Bruins" tvg-id="washingtoncapitalsvsbostonbruins" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/washingtoncapitalsvsbostonbruins.png" group-title="NHL",Washington Capitals vs. Boston Bruins | Stream 2
-https://admin2.formaturamaxi.com.br/tsn2.m3u8
-#EXTINF:-1 tvg-name="Troyes vs. Le Havre" tvg-id="troyesvslehavre" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/troyesvslehavre.png" group-title="Soccer",Troyes vs. Le Havre
+#EXTINF:-1 tvg-name="Lens vs. Toulouse" tvg-id="lensvstoulouse" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/lensvstoulouse.png" group-title="Soccer",Lens vs. Toulouse
 https://bein-esp-xumo.amagi.tv/playlist.m3u8
