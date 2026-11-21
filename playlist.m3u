@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Oregon vs. Michigan State" tvg-id="oregonvsmichiganstate" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/oregonvsmichiganstate.png" group-title="NFL",Oregon vs. Michigan State
+https://tedesco.formaturamaxi.com.br/ncaa4.m3u8
 #EXTINF:-1 tvg-name="UTEP vs. Air Force" tvg-id="utepvsairforce" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/utepvsairforce.png" group-title="NFL",UTEP vs. Air Force
 https://admin2.formaturamaxi.com.br/ncaa5.m3u8
 #EXTINF:-1 tvg-name="Buffalo Sabres vs. Florida Panthers" tvg-id="buffalosabresvsfloridapanthers" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/buffalosabresvsfloridapanthers.png" group-title="NHL",Buffalo Sabres vs. Florida Panthers

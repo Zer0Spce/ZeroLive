@@ -1,8 +1,15 @@
 {
-  "updated_at_utc": "2026-11-20T20:53:23.427935+00:00",
-  "stream_count": 11,
-  "events": 10,
+  "updated_at_utc": "2026-11-21T02:57:32.542088+00:00",
+  "stream_count": 12,
+  "events": 11,
   "entries": [
+    {
+      "title": "Oregon vs. Michigan State",
+      "url": "https://tedesco.formaturamaxi.com.br/ncaa4.m3u8",
+      "category": "NFL",
+      "logo": "https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/oregonvsmichiganstate.png",
+      "source_page": "https://roxiestreams.info/ncaa-streams-4"
+    },
     {
       "title": "UTEP vs. Air Force",
       "url": "https://admin2.formaturamaxi.com.br/ncaa5.m3u8",
