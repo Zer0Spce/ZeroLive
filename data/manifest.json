@@ -1,8 +1,92 @@
 {
-  "updated_at_utc": "2026-11-21T11:59:50.914282+00:00",
-  "stream_count": 1,
-  "events": 1,
+  "updated_at_utc": "2026-11-21T19:55:07.437190+00:00",
+  "stream_count": 13,
+  "events": 13,
   "entries": [
+    {
+      "title": "Chattanooga vs. Alabama",
+      "url": "https://admin2.formaturamaxi.com.br/ncaa17.m3u8",
+      "category": "NFL",
+      "logo": "https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/chattanoogavsalabama.png",
+      "source_page": "https://roxiestreams.info/ncaa-streams-17"
+    },
+    {
+      "title": "Colorado State vs. Fresno State",
+      "url": "https://admin2.formaturamaxi.com.br/ncaa11.m3u8",
+      "category": "NFL",
+      "logo": "https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/coloradostatevsfresnostate.png",
+      "source_page": "https://roxiestreams.info/ncaa-streams-11"
+    },
+    {
+      "title": "Hawai'i vs. Nevada",
+      "url": "https://admin.formaturamaxi.com.br/ncaa6.m3u8",
+      "category": "NFL",
+      "logo": "https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/hawaiivsnevada.png",
+      "source_page": "https://roxiestreams.info/ncaa-streams-6"
+    },
+    {
+      "title": "Houston vs. West Virginia",
+      "url": "https://admin2.formaturamaxi.com.br/ncaa12.m3u8",
+      "category": "NFL",
+      "logo": "https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/houstonvswestvirginia.png",
+      "source_page": "https://roxiestreams.info/ncaa-streams-12"
+    },
+    {
+      "title": "Kentucky vs. Missouri",
+      "url": "https://admin2.formaturamaxi.com.br/ncaa4.m3u8",
+      "category": "NFL",
+      "logo": "https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/kentuckyvsmissouri.png",
+      "source_page": "https://roxiestreams.info/ncaa-streams-4"
+    },
+    {
+      "title": "Maryland vs. USC",
+      "url": "https://admin2.formaturamaxi.com.br/ncaa13.m3u8",
+      "category": "NFL",
+      "logo": "https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/marylandvsusc.png",
+      "source_page": "https://roxiestreams.info/ncaa-streams-13"
+    },
+    {
+      "title": "Pittsburgh vs. Louisville",
+      "url": "https://admin2.formaturamaxi.com.br/ncaa9.m3u8",
+      "category": "NFL",
+      "logo": "https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/pittsburghvslouisville.png",
+      "source_page": "https://roxiestreams.info/ncaa-streams-9"
+    },
+    {
+      "title": "San Diego State vs. Boise State",
+      "url": "https://admin2.formaturamaxi.com.br/ncaa16.m3u8",
+      "category": "NFL",
+      "logo": "https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/sandiegostatevsboisestate.png",
+      "source_page": "https://roxiestreams.info/ncaa-streams-16"
+    },
+    {
+      "title": "SMU vs. Notre Dame",
+      "url": "https://admin2.formaturamaxi.com.br/ncaa7.m3u8",
+      "category": "NFL",
+      "logo": "https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/smuvsnotredame.png",
+      "source_page": "https://roxiestreams.info/ncaa-streams-7"
+    },
+    {
+      "title": "Stanford vs. California",
+      "url": "https://admin2.formaturamaxi.com.br/ncaa5.m3u8",
+      "category": "NFL",
+      "logo": "https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/stanfordvscalifornia.png",
+      "source_page": "https://roxiestreams.info/ncaa-streams-5"
+    },
+    {
+      "title": "UCLA vs. Michigan",
+      "url": "https://admin2.formaturamaxi.com.br/ncaa14.m3u8",
+      "category": "NFL",
+      "logo": "https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/uclavsmichigan.png",
+      "source_page": "https://roxiestreams.info/ncaa-streams-14"
+    },
+    {
+      "title": "Utah State vs. Oregon State",
+      "url": "https://admin.formaturamaxi.com.br/ncaa8.m3u8",
+      "category": "NFL",
+      "logo": "https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/utahstatevsoregonstate.png",
+      "source_page": "https://roxiestreams.info/ncaa-streams-8"
+    },
     {
       "title": "Lens vs. Toulouse",
       "url": "https://bein-esp-xumo.amagi.tv/playlist.m3u8",

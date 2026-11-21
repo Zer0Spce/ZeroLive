@@ -1,3 +1,27 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Chattanooga vs. Alabama" tvg-id="chattanoogavsalabama" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/chattanoogavsalabama.png" group-title="NFL",Chattanooga vs. Alabama
+https://admin2.formaturamaxi.com.br/ncaa17.m3u8
+#EXTINF:-1 tvg-name="Colorado State vs. Fresno State" tvg-id="coloradostatevsfresnostate" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/coloradostatevsfresnostate.png" group-title="NFL",Colorado State vs. Fresno State
+https://admin2.formaturamaxi.com.br/ncaa11.m3u8
+#EXTINF:-1 tvg-name="Hawai'i vs. Nevada" tvg-id="hawaiivsnevada" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/hawaiivsnevada.png" group-title="NFL",Hawai'i vs. Nevada
+https://admin.formaturamaxi.com.br/ncaa6.m3u8
+#EXTINF:-1 tvg-name="Houston vs. West Virginia" tvg-id="houstonvswestvirginia" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/houstonvswestvirginia.png" group-title="NFL",Houston vs. West Virginia
+https://admin2.formaturamaxi.com.br/ncaa12.m3u8
+#EXTINF:-1 tvg-name="Kentucky vs. Missouri" tvg-id="kentuckyvsmissouri" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/kentuckyvsmissouri.png" group-title="NFL",Kentucky vs. Missouri
+https://admin2.formaturamaxi.com.br/ncaa4.m3u8
+#EXTINF:-1 tvg-name="Maryland vs. USC" tvg-id="marylandvsusc" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/marylandvsusc.png" group-title="NFL",Maryland vs. USC
+https://admin2.formaturamaxi.com.br/ncaa13.m3u8
+#EXTINF:-1 tvg-name="Pittsburgh vs. Louisville" tvg-id="pittsburghvslouisville" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/pittsburghvslouisville.png" group-title="NFL",Pittsburgh vs. Louisville
+https://admin2.formaturamaxi.com.br/ncaa9.m3u8
+#EXTINF:-1 tvg-name="San Diego State vs. Boise State" tvg-id="sandiegostatevsboisestate" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/sandiegostatevsboisestate.png" group-title="NFL",San Diego State vs. Boise State
+https://admin2.formaturamaxi.com.br/ncaa16.m3u8
+#EXTINF:-1 tvg-name="SMU vs. Notre Dame" tvg-id="smuvsnotredame" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/smuvsnotredame.png" group-title="NFL",SMU vs. Notre Dame
+https://admin2.formaturamaxi.com.br/ncaa7.m3u8
+#EXTINF:-1 tvg-name="Stanford vs. California" tvg-id="stanfordvscalifornia" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/stanfordvscalifornia.png" group-title="NFL",Stanford vs. California
+https://admin2.formaturamaxi.com.br/ncaa5.m3u8
+#EXTINF:-1 tvg-name="UCLA vs. Michigan" tvg-id="uclavsmichigan" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/uclavsmichigan.png" group-title="NFL",UCLA vs. Michigan
+https://admin2.formaturamaxi.com.br/ncaa14.m3u8
+#EXTINF:-1 tvg-name="Utah State vs. Oregon State" tvg-id="utahstatevsoregonstate" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/utahstatevsoregonstate.png" group-title="NFL",Utah State vs. Oregon State
+https://admin.formaturamaxi.com.br/ncaa8.m3u8
 #EXTINF:-1 tvg-name="Lens vs. Toulouse" tvg-id="lensvstoulouse" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/lensvstoulouse.png" group-title="Soccer",Lens vs. Toulouse
 https://bein-esp-xumo.amagi.tv/playlist.m3u8
