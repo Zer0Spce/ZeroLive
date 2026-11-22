@@ -1,13 +1,13 @@
 {
-  "updated_at_utc": "2026-11-22T00:02:14.200524+00:00",
+  "updated_at_utc": "2026-11-22T09:13:43.610508+00:00",
   "stream_count": 1,
   "events": 1,
   "entries": [
     {
-      "title": "Lens vs. Toulouse",
+      "title": "Chivas vs. Cruz Azul",
       "url": "https://bein-esp-xumo.amagi.tv/playlist.m3u8",
       "category": "Soccer",
-      "logo": "https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/lensvstoulouse.png",
+      "logo": "https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/chivasvscruzazul.png",
       "source_page": "https://roxiestreams.info/soccer-streams-18"
     }
   ]
