@@ -1,14 +1,14 @@
 {
-  "updated_at_utc": "2026-11-22T17:33:55.991181+00:00",
+  "updated_at_utc": "2026-11-23T10:09:14.246491+00:00",
   "stream_count": 1,
   "events": 1,
   "entries": [
     {
-      "title": "Chivas vs. Cruz Azul",
-      "url": "https://bein-esp-xumo.amagi.tv/playlist.m3u8",
-      "category": "Soccer",
-      "logo": "https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/chivasvscruzazul.png",
-      "source_page": "https://roxiestreams.info/soccer-streams-18"
+      "title": "Calgary Flames vs. Ottawa Senators",
+      "url": "https://admin.formaturamaxi.com.br/nhl3.m3u8",
+      "category": "NHL",
+      "logo": "https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/calgaryflamesvsottawasenators.png",
+      "source_page": "https://roxiestreams.info/nhl-streams-3"
     }
   ]
 }
