@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Calgary Flames vs. Ottawa Senators" tvg-id="calgaryflamesvsottawasenators" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/calgaryflamesvsottawasenators.png" group-title="NHL",Calgary Flames vs. Ottawa Senators
-https://admin.formaturamaxi.com.br/nhl3.m3u8
+https://admin2.formaturamaxi.com.br/nhl3.m3u8
+#EXTINF:-1 tvg-name="Utah Mammoth vs. Winnipeg Jets" tvg-id="utahmammothvswinnipegjets" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/utahmammothvswinnipegjets.png" group-title="NHL",Utah Mammoth vs. Winnipeg Jets
+https://admin2.formaturamaxi.com.br/nhl5.m3u8

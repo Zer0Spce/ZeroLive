@@ -1,14 +1,21 @@
 {
-  "updated_at_utc": "2026-11-23T10:09:14.246491+00:00",
-  "stream_count": 1,
-  "events": 1,
+  "updated_at_utc": "2026-11-24T00:32:25.759563+00:00",
+  "stream_count": 2,
+  "events": 2,
   "entries": [
     {
       "title": "Calgary Flames vs. Ottawa Senators",
-      "url": "https://admin.formaturamaxi.com.br/nhl3.m3u8",
+      "url": "https://admin2.formaturamaxi.com.br/nhl3.m3u8",
       "category": "NHL",
       "logo": "https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/calgaryflamesvsottawasenators.png",
       "source_page": "https://roxiestreams.info/nhl-streams-3"
+    },
+    {
+      "title": "Utah Mammoth vs. Winnipeg Jets",
+      "url": "https://admin2.formaturamaxi.com.br/nhl5.m3u8",
+      "category": "NHL",
+      "logo": "https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/utahmammothvswinnipegjets.png",
+      "source_page": "https://roxiestreams.info/nhl-streams-5"
     }
   ]
 }
