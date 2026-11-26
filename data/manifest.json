@@ -1,70 +1,14 @@
 {
-  "updated_at_utc": "2026-11-26T02:36:10.802851+00:00",
-  "stream_count": 9,
-  "events": 9,
+  "updated_at_utc": "2026-11-26T13:28:05.769075+00:00",
+  "stream_count": 1,
+  "events": 1,
   "entries": [
     {
-      "title": "Calgary Flames vs. Pittsburgh Penguins",
-      "url": "https://admin2.formaturamaxi.com.br/nhl6.m3u8",
+      "title": "Pittsburgh Penguins vs. Buffalo Sabres",
+      "url": "https://tedesco.formaturamaxi.com.br/nhl14.m3u8",
       "category": "NHL",
-      "logo": "https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/calgaryflamesvspittsburghpenguins.png",
-      "source_page": "https://roxiestreams.info/nhl-streams-6"
-    },
-    {
-      "title": "Carolina Hurricanes vs. Tampa Bay Lightning",
-      "url": "https://admin2.formaturamaxi.com.br/nhl3.m3u8",
-      "category": "NHL",
-      "logo": "https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/carolinahurricanesvstampabaylightning.png",
-      "source_page": "https://roxiestreams.info/nhl-streams-3"
-    },
-    {
-      "title": "Montreal Canadiens vs. Colorado Avalanche",
-      "url": "https://admin2.formaturamaxi.com.br/nhl12.m3u8",
-      "category": "NHL",
-      "logo": "https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/montrealcanadiensvscoloradoavalanche.png",
-      "source_page": "https://roxiestreams.info/nhl-streams-12"
-    },
-    {
-      "title": "Nashville Predators vs. Dallas Stars",
-      "url": "https://admin2.formaturamaxi.com.br/nhl10.m3u8",
-      "category": "NHL",
-      "logo": "https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/nashvillepredatorsvsdallasstars.png",
-      "source_page": "https://roxiestreams.info/nhl-streams-10"
-    },
-    {
-      "title": "New Jersey Devils vs. Columbus Blue Jackets",
-      "url": "https://admin2.formaturamaxi.com.br/nhl8.m3u8",
-      "category": "NHL",
-      "logo": "https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/newjerseydevilsvscolumbusbluejackets.png",
-      "source_page": "https://roxiestreams.info/nhl-streams-8"
-    },
-    {
-      "title": "Philadelphia Flyers vs. Washington Capitals",
-      "url": "https://admin2.formaturamaxi.com.br/nhl7.m3u8",
-      "category": "NHL",
-      "logo": "https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/philadelphiaflyersvswashingtoncapitals.png",
-      "source_page": "https://roxiestreams.info/nhl-streams-7"
-    },
-    {
-      "title": "St. Louis Blues vs. New York Islanders",
-      "url": "https://admin2.formaturamaxi.com.br/nhl5.m3u8",
-      "category": "NHL",
-      "logo": "https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/stlouisbluesvsnewyorkislanders.png",
-      "source_page": "https://roxiestreams.info/nhl-streams-5"
-    },
-    {
-      "title": "Utah Mammoth vs. Minnesota Wild",
-      "url": "https://admin2.formaturamaxi.com.br/nhl11.m3u8",
-      "category": "NHL",
-      "logo": "https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/utahmammothvsminnesotawild.png",
-      "source_page": "https://roxiestreams.info/nhl-streams-11"
-    },
-    {
-      "title": "Vancouver Canucks vs. Detroit Red Wings",
-      "url": "https://admin2.formaturamaxi.com.br/nhl9.m3u8",
-      "category": "NHL",
-      "logo": "https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/vancouvercanucksvsdetroitredwings.png",
-      "source_page": "https://roxiestreams.info/nhl-streams-9"
+      "logo": "https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/pittsburghpenguinsvsbuffalosabres.png",
+      "source_page": "https://roxiestreams.info/nhl-streams-14"
     }
   ]
 }

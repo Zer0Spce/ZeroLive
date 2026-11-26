@@ -1,19 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Calgary Flames vs. Pittsburgh Penguins" tvg-id="calgaryflamesvspittsburghpenguins" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/calgaryflamesvspittsburghpenguins.png" group-title="NHL",Calgary Flames vs. Pittsburgh Penguins
-https://admin2.formaturamaxi.com.br/nhl6.m3u8
-#EXTINF:-1 tvg-name="Carolina Hurricanes vs. Tampa Bay Lightning" tvg-id="carolinahurricanesvstampabaylightning" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/carolinahurricanesvstampabaylightning.png" group-title="NHL",Carolina Hurricanes vs. Tampa Bay Lightning
-https://admin2.formaturamaxi.com.br/nhl3.m3u8
-#EXTINF:-1 tvg-name="Montreal Canadiens vs. Colorado Avalanche" tvg-id="montrealcanadiensvscoloradoavalanche" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/montrealcanadiensvscoloradoavalanche.png" group-title="NHL",Montreal Canadiens vs. Colorado Avalanche
-https://admin2.formaturamaxi.com.br/nhl12.m3u8
-#EXTINF:-1 tvg-name="Nashville Predators vs. Dallas Stars" tvg-id="nashvillepredatorsvsdallasstars" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/nashvillepredatorsvsdallasstars.png" group-title="NHL",Nashville Predators vs. Dallas Stars
-https://admin2.formaturamaxi.com.br/nhl10.m3u8
-#EXTINF:-1 tvg-name="New Jersey Devils vs. Columbus Blue Jackets" tvg-id="newjerseydevilsvscolumbusbluejackets" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/newjerseydevilsvscolumbusbluejackets.png" group-title="NHL",New Jersey Devils vs. Columbus Blue Jackets
-https://admin2.formaturamaxi.com.br/nhl8.m3u8
-#EXTINF:-1 tvg-name="Philadelphia Flyers vs. Washington Capitals" tvg-id="philadelphiaflyersvswashingtoncapitals" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/philadelphiaflyersvswashingtoncapitals.png" group-title="NHL",Philadelphia Flyers vs. Washington Capitals
-https://admin2.formaturamaxi.com.br/nhl7.m3u8
-#EXTINF:-1 tvg-name="St. Louis Blues vs. New York Islanders" tvg-id="stlouisbluesvsnewyorkislanders" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/stlouisbluesvsnewyorkislanders.png" group-title="NHL",St. Louis Blues vs. New York Islanders
-https://admin2.formaturamaxi.com.br/nhl5.m3u8
-#EXTINF:-1 tvg-name="Utah Mammoth vs. Minnesota Wild" tvg-id="utahmammothvsminnesotawild" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/utahmammothvsminnesotawild.png" group-title="NHL",Utah Mammoth vs. Minnesota Wild
-https://admin2.formaturamaxi.com.br/nhl11.m3u8
-#EXTINF:-1 tvg-name="Vancouver Canucks vs. Detroit Red Wings" tvg-id="vancouvercanucksvsdetroitredwings" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/vancouvercanucksvsdetroitredwings.png" group-title="NHL",Vancouver Canucks vs. Detroit Red Wings
-https://admin2.formaturamaxi.com.br/nhl9.m3u8
+#EXTINF:-1 tvg-name="Pittsburgh Penguins vs. Buffalo Sabres" tvg-id="pittsburghpenguinsvsbuffalosabres" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/pittsburghpenguinsvsbuffalosabres.png" group-title="NHL",Pittsburgh Penguins vs. Buffalo Sabres
+https://tedesco.formaturamaxi.com.br/nhl14.m3u8
