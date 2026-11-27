@@ -5,5 +5,17 @@ https://admin2.formaturamaxi.com.br/ncaa6.m3u8
 https://admin2.formaturamaxi.com.br/ncaa4.m3u8
 #EXTINF:-1 tvg-name="Toledo vs. Ohio" tvg-id="toledovsohio" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/toledovsohio.png" group-title="NFL",Toledo vs. Ohio
 https://admin2.formaturamaxi.com.br/ncaa5.m3u8
+#EXTINF:-1 tvg-name="Colorado Avalanche vs. Minnesota Wild" tvg-id="coloradoavalanchevsminnesotawild" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/coloradoavalanchevsminnesotawild.png" group-title="NHL",Colorado Avalanche vs. Minnesota Wild
+https://admin2.formaturamaxi.com.br/nhl9.m3u8
+#EXTINF:-1 tvg-name="Detroit Red Wings vs. Columbus Blue Jackets" tvg-id="detroitredwingsvscolumbusbluejackets" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/detroitredwingsvscolumbusbluejackets.png" group-title="NHL",Detroit Red Wings vs. Columbus Blue Jackets
+https://admin2.formaturamaxi.com.br/nhl8.m3u8
+#EXTINF:-1 tvg-name="Florida Panthers vs. Washington Capitals" tvg-id="floridapanthersvswashingtoncapitals" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/floridapanthersvswashingtoncapitals.png" group-title="NHL",Florida Panthers vs. Washington Capitals
+https://admin2.formaturamaxi.com.br/nhl7.m3u8
+#EXTINF:-1 tvg-name="Los Angeles Kings vs. Anaheim Ducks" tvg-id="losangeleskingsvsanaheimducks" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/losangeleskingsvsanaheimducks.png" group-title="NHL",Los Angeles Kings vs. Anaheim Ducks
+https://admin2.formaturamaxi.com.br/nhl10.m3u8
+#EXTINF:-1 tvg-name="Ottawa Senators vs. Tampa Bay Lightning" tvg-id="ottawasenatorsvstampabaylightning" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/ottawasenatorsvstampabaylightning.png" group-title="NHL",Ottawa Senators vs. Tampa Bay Lightning
+https://tedesco.formaturamaxi.com.br/nhl5.m3u8
 #EXTINF:-1 tvg-name="Pittsburgh Penguins vs. Buffalo Sabres" tvg-id="pittsburghpenguinsvsbuffalosabres" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/pittsburghpenguinsvsbuffalosabres.png" group-title="NHL",Pittsburgh Penguins vs. Buffalo Sabres
 https://tedesco.formaturamaxi.com.br/nhl14.m3u8
+#EXTINF:-1 tvg-name="Utah Mammoth vs. Nashville Predators" tvg-id="utahmammothvsnashvillepredators" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/utahmammothvsnashvillepredators.png" group-title="NHL",Utah Mammoth vs. Nashville Predators
+https://admin2.formaturamaxi.com.br/nhl3.m3u8
