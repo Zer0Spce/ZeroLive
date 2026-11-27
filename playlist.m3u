@@ -1,3 +1,9 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Air Force vs. New Mexico" tvg-id="airforcevsnewmexico" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/airforcevsnewmexico.png" group-title="NFL",Air Force vs. New Mexico
+https://admin2.formaturamaxi.com.br/ncaa6.m3u8
+#EXTINF:-1 tvg-name="Buffalo vs. Akron" tvg-id="buffalovsakron" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/buffalovsakron.png" group-title="NFL",Buffalo vs. Akron
+https://admin2.formaturamaxi.com.br/ncaa4.m3u8
+#EXTINF:-1 tvg-name="Toledo vs. Ohio" tvg-id="toledovsohio" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/toledovsohio.png" group-title="NFL",Toledo vs. Ohio
+https://admin2.formaturamaxi.com.br/ncaa5.m3u8
 #EXTINF:-1 tvg-name="Pittsburgh Penguins vs. Buffalo Sabres" tvg-id="pittsburghpenguinsvsbuffalosabres" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/pittsburghpenguinsvsbuffalosabres.png" group-title="NHL",Pittsburgh Penguins vs. Buffalo Sabres
 https://tedesco.formaturamaxi.com.br/nhl14.m3u8

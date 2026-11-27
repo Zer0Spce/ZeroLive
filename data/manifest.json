@@ -1,8 +1,29 @@
 {
-  "updated_at_utc": "2026-11-27T00:15:14.988904+00:00",
-  "stream_count": 1,
-  "events": 1,
+  "updated_at_utc": "2026-11-27T10:26:19.636982+00:00",
+  "stream_count": 4,
+  "events": 4,
   "entries": [
+    {
+      "title": "Air Force vs. New Mexico",
+      "url": "https://admin2.formaturamaxi.com.br/ncaa6.m3u8",
+      "category": "NFL",
+      "logo": "https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/airforcevsnewmexico.png",
+      "source_page": "https://roxiestreams.info/ncaa-streams-6"
+    },
+    {
+      "title": "Buffalo vs. Akron",
+      "url": "https://admin2.formaturamaxi.com.br/ncaa4.m3u8",
+      "category": "NFL",
+      "logo": "https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/buffalovsakron.png",
+      "source_page": "https://roxiestreams.info/ncaa-streams-4"
+    },
+    {
+      "title": "Toledo vs. Ohio",
+      "url": "https://admin2.formaturamaxi.com.br/ncaa5.m3u8",
+      "category": "NFL",
+      "logo": "https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/toledovsohio.png",
+      "source_page": "https://roxiestreams.info/ncaa-streams-5"
+    },
     {
       "title": "Pittsburgh Penguins vs. Buffalo Sabres",
       "url": "https://tedesco.formaturamaxi.com.br/nhl14.m3u8",
