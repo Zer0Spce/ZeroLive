@@ -1,7 +1,7 @@
 {
-  "updated_at_utc": "2026-11-27T21:46:48.616262+00:00",
-  "stream_count": 10,
-  "events": 10,
+  "updated_at_utc": "2026-11-28T03:41:14.778339+00:00",
+  "stream_count": 12,
+  "events": 12,
   "entries": [
     {
       "title": "Air Force vs. New Mexico",
@@ -18,11 +18,25 @@
       "source_page": "https://roxiestreams.info/ncaa-streams-4"
     },
     {
+      "title": "Minnesota vs. Wisconsin",
+      "url": "https://admin2.formaturamaxi.com.br/ncaa7.m3u8",
+      "category": "NFL",
+      "logo": "https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/minnesotavswisconsin.png",
+      "source_page": "https://roxiestreams.info/ncaa-streams-7"
+    },
+    {
       "title": "Toledo vs. Ohio",
       "url": "https://admin2.formaturamaxi.com.br/ncaa5.m3u8",
       "category": "NFL",
       "logo": "https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/toledovsohio.png",
       "source_page": "https://roxiestreams.info/ncaa-streams-5"
+    },
+    {
+      "title": "West Virginia vs. Utah",
+      "url": "https://admin.formaturamaxi.com.br/ncaa8.m3u8",
+      "category": "NFL",
+      "logo": "https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/westvirginiavsutah.png",
+      "source_page": "https://roxiestreams.info/ncaa-streams-8"
     },
     {
       "title": "Colorado Avalanche vs. Minnesota Wild",
@@ -61,10 +75,10 @@
     },
     {
       "title": "Pittsburgh Penguins vs. Buffalo Sabres",
-      "url": "https://tedesco.formaturamaxi.com.br/nhl14.m3u8",
+      "url": "https://tedesco.formaturamaxi.com.br/nhl12.m3u8",
       "category": "NHL",
       "logo": "https://raw.githubusercontent.com/Zer0Spce/ZeroLive/main/assets/thumbnails/pittsburghpenguinsvsbuffalosabres.png",
-      "source_page": "https://roxiestreams.info/nhl-streams-14"
+      "source_page": "https://roxiestreams.info/nhl-streams-12"
     },
     {
       "title": "Utah Mammoth vs. Nashville Predators",
